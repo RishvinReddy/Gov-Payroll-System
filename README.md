@@ -384,7 +384,7 @@ If upgrading from V1.0, database schema rewrites are mandatory:
 *   **[MUTATED]** Altered `payroll` table, injected strictly new column `BOOLEAN is_anomaly`.
 *   **[DEPRECATED]** Old React `fetch()` wrapper fully removed; entirely migrated to Axios singleton pattern `api.ts`.
 *   **[NEW]** Deployed fully interactive `docs/` folder acting as standalone GitHub Pages renderer.
-
+ 
 ---
 
 ## 🔮 Future Roadmap (v3.0 Specifications)
