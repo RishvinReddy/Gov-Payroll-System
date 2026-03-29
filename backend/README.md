@@ -168,6 +168,10 @@ curl -X POST http://localhost:5000/api/leaves \
 
 **Module not found**: Run `npm install` again.
 
+## 📄 Author
+
+- [Rishvin Reddy](https://github.com/RishvinReddy)
+
 ## 📄 License
 
 ISC

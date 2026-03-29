@@ -438,7 +438,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onLogin }) => {
                         </div>
                     </div>
                     <div className="border-t border-brand-800/50 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-brand-400">
-                        <p>&copy; 2024 Government IT Department. All rights reserved.</p>
+                        <p>&copy; 2024 Government IT Department. Created by <a href="https://github.com/RishvinReddy" target="_blank" className="hover:text-white underline">Rishvin Reddy</a>. All rights reserved.</p>
                         <div className="flex space-x-6 mt-4 md:mt-0">
                             <a href="#" className="hover:text-white">Privacy</a>
                             <a href="#" className="hover:text-white">Terms</a>
